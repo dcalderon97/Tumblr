@@ -49,7 +49,9 @@ To ensure that I had the correct link to the endpoint to hit.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-    # Lab 2 - *Name of App Here*
+
+
+# Lab 2 - *Name of App Here*
 
 **Tumblr** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
