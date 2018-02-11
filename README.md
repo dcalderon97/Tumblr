@@ -51,7 +51,7 @@ To ensure that I had the correct link to the endpoint to hit.
     limitations under the License.
 
 
-# Lab 2 - *Name of App Here*
+# Lab 2 - *Tumblr*
 
 **Tumblr** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
